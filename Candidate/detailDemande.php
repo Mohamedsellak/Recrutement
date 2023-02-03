@@ -101,7 +101,7 @@ if (isset($_GET['id'])) {
                 </table>
             </div>
         </div>
-        <a href="#" class="btn btn-success ">Postuler</a>
+        <a href="Postuler.php" class="btn btn-success ">Postuler</a>
 
 </body>
 
